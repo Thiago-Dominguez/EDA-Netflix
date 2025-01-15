@@ -4,8 +4,8 @@ The dataset is about Netflix movies and TV shows. I have cleaned the data and th
 
 ## Repository content
 
-- **`Analisis-Exploratorio-de-Datos-en-Python.ipynb`**: Un Jupyter Notebook con el análisis exploratorio de datos del dataset "Iris".
-- **`Iris.csv`**: The dataset "Netflix Movies and TV Shows" used for analysis.
+- **`netflix.ipynb`**: Un Jupyter Notebook con el análisis exploratorio de datos del dataset "Netflix".
+- **`netflix_titles.csv`**: The dataset "Netflix Movies and TV Shows" used for analysis.
 
 ## How to use this git repository? 
    
